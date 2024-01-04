@@ -1,0 +1,22 @@
+{
+  "name": "namasthey-react",
+  "version": "1.0.0",
+  "description": "This is a Namsthey React Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajakumarCHR/Namasthey-React.git"
+  },
+  "author": "Raja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajakumarCHR/Namasthey-React/issues"
+  },
+  "homepage": "https://github.com/RajakumarCHR/Namasthey-React#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
